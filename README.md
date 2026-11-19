@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Other accounts - [@karmehr-okahu](https://github.com/karmehr-okahu) - my work account at Okahu. The commits, PRs, reviews, and github issues there are mine.
+### Other accounts - [@karmehr-okahu](https://github.com/karmehr-okahu) is my work account at Okahu. The commits, PRs, reviews, and GitHub issues there are mine.
 <!--
 **karmehr-singh/karmehr-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
